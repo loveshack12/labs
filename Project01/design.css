@@ -30,7 +30,8 @@ h2 {font-style: italic;
 
 img {display: block; 
     margin-left: auto;
-    margin-right: auto;}
+    margin-right: auto;
+    border-radius: 8px;}
 
 article {margin-left: 100px;
          margin-right: 100px ; 
