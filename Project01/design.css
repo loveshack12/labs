@@ -1,0 +1,43 @@
+body {font-family:'Courier',monospace;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: darkgreen;}
+
+nav {background-color:#80FF84;
+    margin-left: 250px;
+    margin-right: 250px;
+    border-radius: 8px;
+    outline:solid;
+    outline-color: ghostwhite;
+    background-size: auto;
+    box-shadow: 2px 2px darkgreen;}
+
+article {background-color:#80FF84;
+        border-radius: 8px;
+        outline: solid;
+        outline-color: ghostwhite;
+        box-shadow: 2px 2px darkgreen;}
+
+h1 {text-shadow: 2px 2px darkgreen;
+    color: ghostwhite; 
+    margin-right: 100px;
+     margin-left: 100px}
+
+h2 {font-style: italic;}
+
+img {display: block; 
+    margin-left: auto;
+    margin-right: auto;}
+
+article {margin-left: 100px;
+         margin-right: 100px ; 
+         padding-left: 20px ;
+         padding-right: 20px ; 
+         padding-bottom: 20px}
+
+
+
+
+
