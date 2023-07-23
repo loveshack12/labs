@@ -26,13 +26,13 @@ img {border-radius: 8px; }
   height: 144px;
   box-shadow:2px 2px darkred;}
 
-nav { float:left;
-      margin-left: 50px ;
+nav { 
+      margin-left: auto;
       margin-right: auto;
       width:400px; }
 
-main {float:right;
-      margin-left: 10px ;
+main {
+      margin-left: auto ;
       margin-right: auto;
       width: 400px }
 
