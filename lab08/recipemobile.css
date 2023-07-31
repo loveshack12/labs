@@ -1,0 +1,70 @@
+body {
+	background-color: whitesmoke;}
+
+h2 {
+  color: darkred;
+  margin-left: 20px;
+    text-align: center;}
+
+h1 {color: red;
+    text-align: center;
+    background-color: orchid;}
+
+h4 {text-transform: uppercase;}
+
+ol {font-family: "Comic Sans MS"; "Comic Sans", cursive; 
+    font-size: 14px;}
+
+h3 {text-transform: lowercase;}
+
+img {border-radius: 8px; }
+
+#div1 { background-image: url("https://images.pexels.com/photos/6287520/pexels-photo-6287520.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 244px;
+  height: 144px;
+  box-shadow:2px 2px darkred;}
+
+nav {margin: auto;
+      width:400px; }
+
+main {margin: auto;
+    padding-left: 10%;
+      width: 400px }
+
+footer {position:relative;
+        bottom : -30% ;
+        height: 0px; 
+        margin-left:auto;
+        margin-right:auto;
+        width:80%; 
+        padding-bottom: 10%;}
+
+#wrapper {  margin-left: auto;
+            margin-right: auto;
+            width: 80%;
+            } 
+
+#link a:hover {color:#FFFFFF;}
+
+@media (min-width: 768px){
+    nav {display:inline-block;
+        width: 7em;
+        padding: 0.5em; 
+        border: none;
+        text-align: center;}
+    main {display: inline-block;
+        width: 7em; 
+        padding: 0.5em; 
+        border: none;
+        text-align: center;}
+    footer {display:inline-block;
+        width:7em;
+        padding: 0.5em; 
+        border: none;
+        text-align: center;
+        position: relative;
+        padding-bottom: 10%}
+    body {background-color: whitesmoke;}
+    } 
