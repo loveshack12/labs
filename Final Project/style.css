@@ -1,0 +1,167 @@
+h1 {text-align: center;
+	font-size: 30px;
+	font-family:'Brush Script MT', cursive;
+	color: darkred;}
+
+.troutLogo {display: block;
+			margin-left: auto;
+			margin-right: auto;
+			padding: 0px 0px 5px 3px;}
+
+body {font-family: american typewriter, serif;
+		background-color: deepskyblue;
+		padding: 30px}
+
+nav {display: flex;
+	align-items: center;
+	background-color: limegreen;
+	overflow: hidden;
+	position: relative;}
+
+nav a {
+	text-align: center;
+	padding: 20px 20px;
+	font-size: 18px;
+	position: relative;
+	margin-left:auto;
+	margin-right:auto; 
+	color: darkred;}
+
+nav a:active {color: darkgreen;}
+
+nav a:hover { background-color:darkgreen; 
+			color: lightgray;}
+
+.centercolumn{margin: auto;
+			width: 75%; }
+
+.fishimg{border: 15px solid;
+		border-color: gray;}
+
+.card{background-color: lightgray;
+		padding: 15px; 
+		margin-top: 20px;}
+
+.card1{background-color: lightgray;
+		padding: 15px; 
+		margin-top: 20px;}
+
+.fishimg1{border: 15px solid;
+		border-color: gray;}
+
+.video{background-color: lightgray;
+		padding: 15px; 
+		margin-top: 20px;}
+
+.tips1{position: relative;
+		float: right;
+		padding: 50px;}
+
+.video1{background-color: lightgray;
+		padding: 15px; 
+		margin-top: 20px;}
+
+.tips2{position: relative;
+		float: right;
+		padding: 50px;}
+
+.table1{background-color: lightgray;
+		padding: 15px;
+		font-size: 18px;
+		margin-left: auto;
+		margin-right: auto;
+		width: 100%;
+		margin-top: 20px}
+
+th {text-align: center;
+	border-bottom: 1px solid black;
+	padding: 5px;}
+
+tr:nth-child(even){background-color:limegreen;}
+
+.tableMark{text-align: center;}
+
+.FliesHeader {text-align: center;}
+
+table {border-collapse: collapse;
+		margin-left: auto;
+		margin-right: auto;}
+
+.table2{background-color: lightgray;
+		padding: 15px;
+		font-size: 18px;
+		margin-left: auto;
+		margin-right: auto;
+		width: 100%;
+		margin-top: 20px}
+
+.aboutme{position: relative;
+		float: right;
+		padding: 50px;}
+
+.me{background-color: lightgray;
+		padding: 15px; 
+		margin-top: 20px;}
+
+.reachout{background-color: lightgray;
+		padding: 15px; 
+		margin-top: 20px;}
+
+.maillist{text-align: center;}
+
+.row1{display: flex;
+	flex-wrap: wrap;
+	flex: 25%;}
+
+.photo1{padding:5px;
+		margin-left: auto;}
+
+.photo2{padding:5px;
+		margin: auto;}
+
+.photo3{padding:5px;
+	margin-right: auto;}
+
+.NewMexico{text-align: center;
+	background-color: lightgray;
+	padding: 5px;
+	margin-top:20px;}
+
+footer{background-color: limegreen;
+	text-align: center;
+	padding: 20px;
+	margin-top: 20px;
+	background-image: url(https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/59168/fish-clipart-md.png);
+	background-repeat: repeat-x;
+	background-size: 100px 43px;}
+
+@media only screen and (max-width: 600px) {
+
+nav {display: flex;
+	align-items: center;
+	position: relative;}
+
+nav a{font-size: 14px;}
+
+.centercolumn{margin:auto;
+			width: 95%;}
+
+table{ background-color:lightgray;}
+
+iframe{width: 300px; 
+		height: 200px;}
+
+.video {display: inline-block;}
+
+.video1 {display: inline-block;}
+
+.me {display: inline-block;}
+
+.photo1 {margin: auto;}
+
+.photo2 {margin: auto;}
+
+.photo3 {margin: auto;}
+
+}
+
