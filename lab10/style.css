@@ -1,0 +1,10 @@
+body {background-color: lightgray;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	position:relative;}
+
+h1 {text-align: center;}
+
+li{ font-weight:bold; }
+
