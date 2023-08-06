@@ -165,3 +165,21 @@ iframe{width: 300px;
 
 }
 
+@media only screen and (max-width: 4500px){
+
+
+	.video {display: inline-block;}
+
+.video1 {display: inline-block;}
+
+.me {display: inline-block;}
+
+.photo1 {margin: auto;}
+
+.photo2 {margin: auto;}
+
+.photo3 {margin: auto;}
+
+table{ background-color:lightgray;}
+
+}
